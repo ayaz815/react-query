@@ -15,5 +15,22 @@
       "name": "Wonder Woman",
       "alterEgo": "Princess Diana"
     }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "ayaz",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "usama",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "haris",
+      "alterEgo": "Princess Diana"
+    }
   ]
 }
