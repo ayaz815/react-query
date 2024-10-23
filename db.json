@@ -1,0 +1,52 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman",
+      "alterEgo": "Princess Diana"
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "ayaz",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "usama",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "haris",
+      "alterEgo": "Princess Diana"
+    }
+  ],
+  "users": [
+    {
+      "id": "hmayaz528@gmail.com",
+      "channelId": "code with ayaz"
+    },
+    {
+      "id": "zynb815@gmail.com",
+      "channelId": "makeup with zynb"
+    }
+  ],
+  "channels": [
+    {
+      "id": "yazii",
+      "courses": ["react", "next", "nest"]
+    }
+  ]
+}
